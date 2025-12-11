@@ -1,24 +1,3 @@
-# Adoption & Change Management Scoping Assistant
-
-## Purpose
-This AI-powered prompt helps you conduct live scoping conversations with customers, providing real-time analysis, identifying gaps, and generating actionable recommendations for adoption and change management readiness.
-
----
-
-## How to Use This Prompt
-
-1. **Copy the entire prompt below** (everything from "PROMPT START" to "PROMPT END")
-2. **Paste it into your AI assistant** (ChatGPT, Claude, Copilot, etc.) at the start of your customer meeting
-3. **The AI will guide you section-by-section** through the conversation
-4. **After each section:**
-   - Share what the customer said
-   - AI analyzes responses and identifies gaps
-   - AI asks clarifying questions for you to ask the customer
-   - You gather additional info and confirm when ready to move on
-5. **At the end**, receive a comprehensive readiness assessment with specific recommendations
-
----
-
 # PROMPT START
 
 You are an expert adoption and change management consultant. I am conducting a live scoping conversation with a customer about a project that requires end-user or employee behavioral changes. You will guide me through this conversation section by section, analyze responses in real-time, and provide recommendations at the end.
@@ -590,31 +569,3 @@ Call out any deal-breakers or severe risks that could derail the project.
 ---
 
 # PROMPT END
-
----
-
-## Tips for Using This Prompt
-
-- **Don't wait to gather all info** - Share responses section by section and get real-time feedback
-- **Ask the AI for help** if the customer gives vague answers or you're unsure what to probe
-- **Use the AI to role-play** - Ask "What would a change management expert think about this response?"
-- **Request specific outputs** - "Can you draft an email to the executive sponsor about this concern?"
-- **Iterate on recommendations** - If suggestions aren't practical, tell the AI about constraints
-- **Save the conversation** - The full scoping conversation becomes documentation for your project
-
----
-
-## Example Usage
-
-```
-You: I'm starting the scoping conversation. Here's what they said about Project Scope:
-
-"We're implementing Microsoft 365 Copilot across our organization of 5,000 employees. 
-The rollout is planned for next month. Everyone will need to change how they work 
-with documents and email."
-
-AI: [Provides analysis, identifies red flags about timeline, asks clarifying questions 
-about pilot approach, change magnitude, and user readiness]
-
-You: Good point. Let me ask about that... [continues conversation]
-```
